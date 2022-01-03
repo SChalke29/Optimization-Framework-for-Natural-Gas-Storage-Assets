@@ -9,9 +9,7 @@
 
 ## Methodology
 
-
-
-
+![image](https://user-images.githubusercontent.com/56485357/147925201-37607358-df4f-4437-8e63-0032072d3fd0.png)
 
 
 
