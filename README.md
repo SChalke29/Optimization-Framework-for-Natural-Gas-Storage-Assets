@@ -14,8 +14,8 @@
 
 Simulated natural gas price predictions were analysed using discriptive statistics as below.
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/56485357/147994484-b7f1cfd9-7c07-4505-a539-c5c4697a0f72.png" width="450" height="300" />
-  <img src="https://user-images.githubusercontent.com/56485357/147994488-8ec99296-f4ab-4afb-b485-eb2169d729c0.png" width="450" height="300" /> 
+  <img src="https://user-images.githubusercontent.com/56485357/147994484-b7f1cfd9-7c07-4505-a539-c5c4697a0f72.png" width="420" height="300" />
+  <img src="https://user-images.githubusercontent.com/56485357/147994488-8ec99296-f4ab-4afb-b485-eb2169d729c0.png" width="420" height="300" /> 
 </p>
 
 
@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/56485357/147926314-a89de21e-9245-4871-
 
 ## Pictures of research seminar presented to the graduate students and faculty members of Dalhousie University in Halifax, Nova Scotia.
 <p float="left">
-  <img src="https://user-images.githubusercontent.com/56485357/147918397-cc6e13d7-79d4-4f2b-946f-47dee580bd52.png" width="400" height="400" hspace="40" />
+  <img src="https://user-images.githubusercontent.com/56485357/147918397-cc6e13d7-79d4-4f2b-946f-47dee580bd52.png" width="400" height="400" hspace="20" />
   <img src="https://user-images.githubusercontent.com/56485357/147918469-e64c6511-17b6-409b-a21f-4cdcde0b3ca3.png" width="400" height="400" /> 
 </p>
 
