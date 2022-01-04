@@ -13,18 +13,15 @@
 ## Exploratoary Data Analysis and Preparation
 
 Simulated natural gas price predictions were analysed using discriptive statistics as below.
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/56485357/147994484-b7f1cfd9-7c07-4505-a539-c5c4697a0f72.png" width="350" hspace="20" />
-  <img src="https://user-images.githubusercontent.com/56485357/147994488-8ec99296-f4ab-4afb-b485-eb2169d729c0.png" width="350"/> 
-</p>
 
+<img src="https://user-images.githubusercontent.com/56485357/148002314-25e05ab1-7b81-4ffa-81ec-6b6fb42c6c04.png" width="900"/> 
 
 - High price variations and high average prices were observed during the winter season. 
 - The above observation perefectly correlates with the extremely high demand during the winter season and therefore the high prices and price fluctuations. 
 
 Over 900 price scenarios were clustred using **"machine learning algorithm (K-Means Clustering)"** and optimum numbers of clusters (price scenarios) were derived using **"Elbow Method"** 
 
-<img src="https://user-images.githubusercontent.com/56485357/147995280-41076e34-ec5b-47de-bfb4-0baa48ccaffb.png" width="800"/> 
+<img src="https://user-images.githubusercontent.com/56485357/147995280-41076e34-ec5b-47de-bfb4-0baa48ccaffb.png" width="900"/> 
 
 - Within cluster variation starts to get plateaued after 9 clusters. Therefore, K=9 is selected as an optimum number of price scenarios for analysis.
 
@@ -61,10 +58,6 @@ https://user-images.githubusercontent.com/56485357/147926314-a89de21e-9245-4871-
 
 
 ## Pictures of research seminar presented to the graduate students and faculty members of Dalhousie University in Halifax, Nova Scotia.
-<p float="left">
-  <img src="https://user-images.githubusercontent.com/56485357/147918397-cc6e13d7-79d4-4f2b-946f-47dee580bd52.png" width="400" height="350" hspace="20" />
-  <img src="https://user-images.githubusercontent.com/56485357/147918469-e64c6511-17b6-409b-a21f-4cdcde0b3ca3.png" width="400" height="350" /> 
-</p>
 
-
+<img src="https://user-images.githubusercontent.com/56485357/148002612-5e1bf14f-0cf5-41b0-86ab-fd0cd17bf137.png" width="900"/> 
 
